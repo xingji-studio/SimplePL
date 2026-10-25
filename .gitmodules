@@ -1,0 +1,3 @@
+[submodule "vendor/kizi"]
+	path = vendor/kizi
+	url = https://github.com/kiz-lang/kizi.git
